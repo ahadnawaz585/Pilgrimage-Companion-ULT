@@ -1,8 +1,8 @@
-# Pilgrimage Companion
+# Pilgrimage Companion ULT 
 
 ## Overview
 
-Pilgrimage Companion is a comprehensive mobile application built with React Native and Expo. Designed specifically for Hajj and Umrah pilgrims, this app offers a variety of features to enhance your pilgrimage experience. Key functionalities include voice-to-voice translation, image-to-text conversion with translation, saving and managing favorite translations, and detailed guidance for Hajj and Umrah rituals. The app also includes a voice translator to assist you in communicating with Arabic speakers and fellow pilgrims.
+Pilgrimage Companion ULT is a comprehensive mobile application built with React Native and Expo. Designed specifically for Hajj and Umrah pilgrims, this app offers a variety of features to enhance your pilgrimage experience. Key functionalities include voice-to-voice translation, image-to-text conversion with translation, saving and managing favorite translations, and detailed guidance for Hajj and Umrah rituals. The app also includes a voice translator to assist you in communicating with Arabic speakers and fellow pilgrims.
 
 ## Features
 
@@ -30,7 +30,7 @@ Pilgrimage Companion is a comprehensive mobile application built with React Nati
 
 ## Installation
 
-To install and run the Pilgrimage Companion app, follow these steps:
+To install and run the Pilgrimage Companion ULT app, follow these steps:
 
 1. **Clone the Repository**:
    ```sh
@@ -77,7 +77,7 @@ To install and run the Pilgrimage Companion app, follow these steps:
 
 ## Contributing
 
-We welcome contributions to improve the Pilgrimage Companion app! To contribute:
+We welcome contributions to improve the Pilgrimage Companion ULT app! To contribute:
 
 1. Fork the repository.
 2. Create a new branch:
@@ -104,4 +104,4 @@ For any questions or feedback, please contact us at ahadnawaz585@gmail.com
 
 ---
 
-Thank you for using Pilgrimage Companion! May your pilgrimage be blessed and successful.
+Thank you for using Pilgrimage Companion ULT! May your pilgrimage be blessed and successful.
