@@ -14,7 +14,7 @@ const QuranicText = ({ arabicText, englishTranslation, urduTranslation, language
             setIsPlaying(false);
         } else {
             const instance = Speech.speak(text, {
-                language: language === 'er' ? 'er' : 'en', 
+                language: 'ar', 
                 onStart: () => setIsPlaying(true),
                 onDone: () => setIsPlaying(false),
                 onError: () => setIsPlaying(false),
