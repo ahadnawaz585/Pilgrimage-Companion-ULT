@@ -16,6 +16,10 @@ import { addHistoryItem, setHistoryItems } from '../store/historySlice';
 import { setSavedItems } from '../store/savedItemsSlice';
 import { uploadImageToTextAPI } from '../Service/uploadImageToText.service';
 import transcribeAudio from '../Service/voiceToText.service';
+<<<<<<< HEAD
+=======
+import VoiceToVoiceScreen from './VoiceTovoice';
+>>>>>>> origin/main
 
 
 export default function TranslateScreen(props) {
@@ -145,6 +149,12 @@ export default function TranslateScreen(props) {
         }
     }, [enteredText, languageFrom, speakingInput]);
 
+<<<<<<< HEAD
+=======
+    const stopSpeaking = useCallback(() => {
+        Speech.stop();
+    }, []);
+>>>>>>> origin/main
 
     const onArrowClick = () => {
         let swappedLanguages;

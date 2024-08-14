@@ -89,7 +89,11 @@ const styles = StyleSheet.create({
     position: 'absolute',
     top: 12,
     right: 15,
+<<<<<<< HEAD
     zIndex: 1,
+=======
+    zIndex: 1, 
+>>>>>>> origin/main
     // transform: [{ rotate: '-3deg' }],
   },
   growStar: {

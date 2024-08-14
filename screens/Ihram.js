@@ -3,7 +3,11 @@ import { View, Text, ScrollView, Image, StyleSheet, TouchableOpacity } from 'rea
 import colors from '../Utils/colors';
 import QuranicText from '../components/quranicText';
 import ihramData from '../content/Ihram';
+<<<<<<< HEAD
 import LanguageSelector from '../components/urduSelector';
+=======
+import LanguageSelector from './urduSelector';
+>>>>>>> origin/main
 
 const IhramScreen = ({ navigation }) => {
     const [language, setLanguage] = useState('en');
